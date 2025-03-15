@@ -1,0 +1,17 @@
+.menu li{
+    display: inline-block;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    display: flex;
+    justify-content: space-between;
+}
+.center{
+    width: calc(100% - 200px);
+}
+aside{
+    width: 200px;
+}

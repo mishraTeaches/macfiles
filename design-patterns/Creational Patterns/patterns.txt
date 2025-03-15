@@ -1,0 +1,20 @@
+INTRO - 
+
+ANTI PATTERNS - 
+
+Notions of ANTI PATTERNS.
+
+CREATIONAL DESIGN PATTERNS.
+
+Constructor Pattern.
+The module pattern.
+The Revealing Module Pattern.
+The Singleton pattern.
+The Prototype pattern.
+The Factory Pattern
+
+
+STRUCTURAL DESIGN PATTERNS
+
+
+BEHAVIORAL DESIGN PATTERNS.

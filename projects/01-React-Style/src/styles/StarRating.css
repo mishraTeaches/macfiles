@@ -1,0 +1,8 @@
+.star-icon {
+  stroke: gray;
+  transition: stroke 0.2s ease;
+}
+
+.star-icon-filled {
+  stroke: gold;
+}

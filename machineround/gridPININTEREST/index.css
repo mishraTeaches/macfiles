@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    background: linear-gradient(45deg,#190f2c,#200b30);
+}
+img{
+    max-width: 100%;
+}
+.grid-wrapper{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    grid-auto-rows: 200px;
+
+}
+.grid-wrapper .wide{
+    grid-column: span 2;
+}
